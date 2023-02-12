@@ -1,1 +1,1 @@
-# git_learning
+This repository is only for learning git commands.
